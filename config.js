@@ -7,12 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['212770579205', 'OMAR', true], 
- // ['233208179431', 'Abraham Dwamena', false],
-//  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', false], 
-//  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', false],
-//  ['233533763772', 'Abraham Dwamena2', false],
-//  ['233531910067', 'Abraham Dwamena3', false],
+  ['212770579205', 'OMAR'],
   
 ] //Number of owners
 
@@ -68,8 +63,8 @@ global.dygp = 'https://whatsapp.com/channel/0029VaPj1XN2975EPpWx4p27'
 global.fgsc = 'https://github.com/OMARCHARAF0' 
 global.fgyt = 'https://whatsapp.com/channel/0029VaPj1XN2975EPpWx4p27'
 global.fgpyp = 'https://whatsapp.com/channel/0029VaPj1XN2975EPpWx4p27'
-global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./XLICON.jpg')
+global.fglog = 'OMAR.jpg' 
+global.thumb = fs.readFileSync('./OMAR.jpg')
 
 global.wait = ('> |🏃🏻... *سوف يتم تلبية طلبك..* \n *قم بالإنظمام لمجموعتنا لتحصل على جديد البوتات*\n https://chat.whatsapp.com/K6V9If35p3HAWfUjtEECVt')
 //global.wait = ('> |🏃🏻... *سوف يتم تلبية طلبك..* \n  *تابع صانع البوت في إنستجرام ✅*\n \n https://www.instagram.com/ovmar_1')
